@@ -73,18 +73,15 @@
 <!-- ABOUT THE PROJECT -->
 ## Acerca del Proyecto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Esta documentación busca describir el proyecto semestral del ramo de TICs II, el cual está enfocado en hacer un proyecto que le dé valor agregado hacia una empresa y es elaborado por tres alumnos, Álex Castro, Marcos Fantoval, Diego Lagos.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+La empresa H&M Salón tiene una problemática a solucionar, se analiza el contexto en el que está situada y que necesidades tiene. Luego se consideran soluciones para la problemática, una vez se haya elegido, deben modelarse las funcionalidades de esta, el alcance, las restricciones, los procesos de negocios, las tareas a realizar y los tiempos que se van a dedicar.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+La solución planteada es crear una aplicación web que se planea para facilitar el orden de los horarios e inventario de la empresa.. Ésta solución nace de la necesidad de modernizar el funcionamiento de la empresa, hasta ahora la organización de horas y el inventario se hacen a mano, de forma análoga y sin un orden digital. Es por eso que la solución propuesta facilita los horarios y el inventario de implementos. 
 
-Use the `BLANK_README.md` to get started.
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

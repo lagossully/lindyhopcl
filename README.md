@@ -91,11 +91,10 @@ La solución planteada es crear una aplicación web que se planea para facilitar
 
 Las frameworks/librerías principales que se usaron:
 
-* [![React][React.js]][React-url]
+* [React][React-url]
 * [MongoDB][Mongodb-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [Express][https://expressjs.com/]
+* [Node][https://nodejs.org/en/]
 
 <p align="right">(<a href="#readme-top">↑↑↑</a>)</p>
 

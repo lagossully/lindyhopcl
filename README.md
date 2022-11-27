@@ -36,7 +36,7 @@
   <p align="center">
     Una página web para administrar el salón de belleza "H&M Salon"
     <br />
-    <a href="https://github.com/lagossully/TICS_II"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lagossully/TICS_II"><strong>Explorar»</strong></a>
   </p>
 </div>
 

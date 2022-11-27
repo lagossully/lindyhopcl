@@ -240,9 +240,9 @@ Use this space to list resources you find helpful and would like to give credit 
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [mongodb.com]: [https://www.mongodb.com/](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)
-[Express-url]:[https://expressjs.com/]
+[Express-url]: [https://expressjs.com/]
 [Mongodb-url]: https://www.mongodb.com/
-[Node-url]:[https://nodejs.org/en/]
+[Node-url]: [https://nodejs.org/en/]
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white

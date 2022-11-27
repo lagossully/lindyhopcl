@@ -53,7 +53,7 @@
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#uso">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
@@ -101,10 +101,12 @@ Las frameworks/librerías principales que se usaron:
 
 
 <!-- GETTING STARTED -->
-## Getting Started
+## Uso
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+Para instalar este stack siga los siguientes pasos:
+
+* Montar la API mendiante Node
+* Montar la base de datos mediante MongoDB
 
 ### Prerequisites
 

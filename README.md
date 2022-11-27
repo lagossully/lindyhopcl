@@ -28,7 +28,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/lagossully/TICS_II">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Imagenes/Imagen.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Página H&M Salón</h3>
@@ -47,7 +47,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#acerca-del-proyecto">Acerca del Proyecto</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -71,7 +71,7 @@
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Acerca del Proyecto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 

@@ -92,7 +92,7 @@ La solución planteada es crear una aplicación web que se planea para facilitar
 Las frameworks/librerías principales que se usaron:
 
 * [![React][React.js]][React-url]
-* [![MongoDB][mongodb.com]][Mongodb-url]
+* [![MongoDB][Mongodb-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
 * [![JQuery][JQuery.com]][JQuery-url]
@@ -240,7 +240,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[mongodb.com]: [https://api.civo.com/k3s-marketplace/mongodb.png]
+[mongodb.com]: [https://www.mongodb.com/](https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress)
 [Mongodb-url]: https://www.mongodb.com/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [Vue-url]: https://vuejs.org/
